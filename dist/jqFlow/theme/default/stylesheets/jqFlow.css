@@ -1,0 +1,17 @@
+.node {
+	
+}
+
+.node:hover {
+	fill:#6cbe42;
+	transition: all 0.5s ease 0s;
+}
+
+.trans-text {
+}
+
+.trans-text:hover {
+	fill:#ffaa31;
+	font-weight:bold !important;
+	transition: all 0.5s ease 0s;
+}
